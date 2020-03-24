@@ -1,0 +1,11 @@
+数据类型：
+1.整型  byte 1字节 short  int（最大21亿多）  long     范围：-2^n ~ 2^n-1
+2.浮点类型： float 4字节 有效位数6~7  double 8字节 有效位数15  double精度为float两倍
+    浮点数据不适用与无法接受舍入误差的金融计算 浮点数据采用二进制系统表示 该系统无法精确表示分数1/10 BigDecimal
+3.char类型
+4.boolean类型 true false  编译后当做int来代替 4字节 boolean数组共用byte数组的指令 所以boolean数组中boolean 1字节
+变量
+声明变量后，必须用赋值语句进行显示初始化，不可直接使用  编译器报错
+常量
+final  只可赋值一次
+

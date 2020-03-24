@@ -1,0 +1,4 @@
+openJDK：javaSE（用于桌面或简单服务器应用）的一个免费开源实现，不包含浏览器集成或javaFX
+javaFX：用于图形化用户界面的替代工具包
+环境变量路径参数：操作系统查找可执行文件遍历的目录  linux：~/.bashrc或~/.bash_profile
+javac编译java文件 类名全称 带后缀 大小写  java运行class无需指定后缀    java区分大小写
